@@ -1,0 +1,19 @@
+{
+  "name": "raw-node-api",
+  "version": "1.0.0",
+  "description": "Deep diving in node ",
+  "main": "index.js",
+  "author": "Ibtesum Reza Aninda",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "devDependencies": {
+    "eslint": "8.2.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "2.25.2",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8"
+  }
+}
